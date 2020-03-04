@@ -1,0 +1,22 @@
+.input {
+    width: 300px;
+    height: 44px;
+    border-radius: 5px;
+    border: solid 2px ;
+    $color-grey-mid: #666a6d;
+    margin-bottom: 16px;
+}
+
+.errorInput {
+    border: solid 2px; 
+    $color-red-orange: #FF0000;
+}
+
+.errorText {
+    font-size: 14px;
+    line-height: 1.71;
+    $color-red-orange: #FF0000;
+    margin-bottom: 4px;
+    margin-left: 10px;
+    width: 300px;
+}

@@ -1,0 +1,36 @@
+.headingStyling {
+    display: block !important;
+    overflow-x: scroll !important;
+    width: 100% !important;
+  }
+
+  .topStyling{
+    padding: 0; 
+  }
+  .containerCss{
+      overflow:hidden
+  }
+
+  .unstyled-form {
+    padding: 0;
+  }
+  .column-middle{
+      text-align: center;
+      vertical-align: top;
+      padding: 0;
+  }
+
+  /* tr > td:last-of-type  {
+  border: none;
+  } */
+
+.fitStyling {
+ padding: 0
+}
+  th { 
+    text-align:center; 
+    border:1px solid black; 
+    border-spacing: 1000px; 
+} 
+
+  
