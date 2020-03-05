@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "https://shahxor.github.io/static/js/2.bdf6bc51.chunk.js"
   },
   {
-    "revision": "88ec90f67f40e6966e08",
-    "url": "https://shahxor.github.io/static/js/3.56e53201.chunk.js"
+    "revision": "6c138cfd5c2950283b4c",
+    "url": "https://shahxor.github.io/static/js/3.2200bfd3.chunk.js"
   },
   {
     "revision": "80ccac56b43552da3106",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "https://shahxor.github.io/static/js/main.d2ab4685.chunk.js"
   },
   {
-    "revision": "1c92a0cbffdee778e2c7",
-    "url": "https://shahxor.github.io/static/js/runtime~main.5750216b.js"
+    "revision": "83a2431d553a42de549e",
+    "url": "https://shahxor.github.io/static/js/runtime~main.4d4bb03b.js"
   },
   {
     "revision": "5edbe48eef4f1e81c259",
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "https://shahxor.github.io/static/css/20.46dd75c5.chunk.css"
   },
   {
-    "revision": "8ef6d82ee428006f5b5cdcea4963e1c1",
+    "revision": "8bafed0978389e54e4d82353cfb4ca03",
     "url": "https://shahxor.github.io/index.html"
   }
 ];
