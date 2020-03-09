@@ -40,7 +40,7 @@ mongoose
     useUnifiedTopology: true,
     useNewUrlParser: true,
     useFindAndModify: false,
-    useCreateIndex: true,,
+    useCreateIndex: true,
     adapter: 'sails-mongo',
     host: 'cluster0-kqqjs.mongodb.net',
     port: 27017,
