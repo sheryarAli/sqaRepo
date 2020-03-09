@@ -35,7 +35,8 @@ const db = require('./config/keys').mongoURI;
 
 // Connect to Mongo
 mongoose
-  .connect(db, {
+  .connect(db, { {
+    user: process.env.MONGO_USER, pass: process.env.MONGO_PASSWORD,
     useUnifiedTopology: true,
     useNewUrlParser: true,
     useFindAndModify: false,
@@ -180,7 +181,7 @@ app.use(errorHandler);
 // app.use('ldap', ldapSaveRoute);
 
 // app.use('/digitalForm', formMigrationRoute(router));
-const PORT = process.env.PORT || 5000 ;
+const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server started on PORT ${PORT}`)
 })
