@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: 'mongodb://shahzore:Shahzore@127.0.0.1/ServiceQuality'
+    mongoURI: 'mongodb+srv://shahzore:<12345>@cluster0-1kwdo.mongodb.net/test?retryWrites=true&w=majority'
 }
