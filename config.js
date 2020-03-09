@@ -1,5 +1,5 @@
 module.exports = {
-    dburl: 'mongodb+srv://@cluster0-1kwdo.mongodb.net/test?retryWrites=true&w=majority',
+    dburl: 'mongodb://@cluster0-1kwdo.mongodb.net/test?retryWrites=true&w=majority',
 
     sessionSecret: 'Fmfb@2019',
     ldap: {
