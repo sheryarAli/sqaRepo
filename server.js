@@ -41,9 +41,6 @@ mongoose
     useNewUrlParser: true,
     useFindAndModify: false,
     useCreateIndex: true,
-    adapter: 'sails-mongo',
-    host: 'cluster0-kqqjs.mongodb.net',
-    port: 27017,
   })
   .then(() => console.log('MongoDB Connected...'))
   .catch(err => console.log(err));
