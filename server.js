@@ -36,7 +36,6 @@ const db = require('./config/keys').mongoURI;
 // Connect to Mongo
 mongoose
   .connect(db, {
-    user: process.env.MONGO_USER, pass: process.env.MONGO_PASSWORD,
     useUnifiedTopology: true,
     useNewUrlParser: true,
     useFindAndModify: false,
